@@ -1,0 +1,14 @@
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/FlumeManager.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/ManagerFactory.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/FlumeNode.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/FlumeEvent.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/util/PropertiesUtil.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/FlumeAvroManager.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/FlumeEmbeddedManager.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/Agent.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/LogbackEventSource.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/FlumeAppender.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/util/UUIDUtil.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/BatchEvent.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/FlumeEventFactory.java
+/Users/matyix/projects/logback-flume-ng/src/main/java/com/sequenceiq/logback/appender/flumeng/FlumeConfigurationBuilder.java
