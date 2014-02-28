@@ -4,7 +4,7 @@ apply plugin: 'maven'
 group = 'com.sequenceiq'
 version = '0.0.1-SNAPSHOT'
 
-description = """"""
+description = "Logback Flume 1.3 adapter"
 
 sourceCompatibility = 1.6
 targetCompatibility = 1.6
@@ -22,7 +22,7 @@ exclude(module: 'org.slf4j')
 exclude(module: 'log4j')
     }
     compile(group: 'org.apache.flume', name: 'flume-ng-core', version:'1.3.1') {
-exclude(module: 'slf4j-log4j12')
+    exclude(module: 'slf4j-log4j12')
 exclude(module: 'log4j')
     }
     compile group: 'org.apache.flume.flume-ng-channels', name: 'flume-file-channel', version:'1.3.1'
